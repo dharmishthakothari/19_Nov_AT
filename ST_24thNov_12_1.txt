@@ -94,8 +94,62 @@ java file execution always starts from main method
 - print 
  System.out.println("Hello World");
 
+28th Nov 
+- Installation Java,ecplise 
+- sample class
+
+java program/class structure
+ -Package
+ -import 
+- class definition 
+
+package - Organize way to store classes and sub packages 
+import - api , packages , util,IO
+class definition 
+
+data type - Which type of data want to store - name -must be string/text (avani,dhruvi) , c_no - numbers - Percentage - decimal  - Java Primitive and non-Primitive(class type)
+				Primitive 
+				1.int , long - non decimal - size - 10000,100000,9900000,888888888888888
+				2. float , double - decimal - size - science 
+				3. boolean - True/False
+				4. char - single character - grade 'A' , 'B'
+
+				Non-Primitve 
+				String name 
+
+variable - 		indetifier - name - which may be change 
+
+declare 
+declare 2 integer variables
+
+ - data_type variable_name;
+ int no1,no2;
+
+int no1;
+int no2;
+
+//initlization 
+we are giving intilization 
+no1=20;
+no2=30;
+
+//declaration and intilization simultanoulsy 
+int no1=20,no2=100;
+Number1 = 20
+Number2 = 100
+
+create a class which stores Peerson data like name,address,age,c_no,percentage
+
+escape sequence 
+\n
+\t
+
+
+Operator 
+ 
 
 
 		
  
+
 
