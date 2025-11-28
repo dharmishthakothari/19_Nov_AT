@@ -1,0 +1,101 @@
+24th Nov
+
+	Automation 
+  		- Tool
+		- Time
+		- Accuracy 
+		- Human intervention
+		- Mistake 
+		- repeately 
+
+	Registration page check , test case , 10 TC - Negative testing 20 
+		200 
+		Test script 
+
+		Responce time 
+		at time login , how they react , how they use the resorce ,
+		What to Automate and What not to ?
+		- Responce time - Easy to use manually
+		-Multile datas	- requrement frequnelty 
+		
+Selenium - Automation 
+
+Selenium not single 
+It is 4 components 
+1. Selenium IDE - Record and Play - you can not do programming 
+		- Test cases export in other langauges 
+2, Selenium WebDriver - widely used selenium componenet
+			supports 6 languages (java,python,...)
+			scripts 
+			third party Framework integration 			Junit,TestNG	
+3. Selenium RC - Remote control - now days no use
+4. Selenium Grid - nodes and hub - combination of different OS and browser 
+
+
+Project - Ttest Suite - test case
+
+
+26th Nov
+
+Selenium Componenets 	 
+	selenium IDE
+	Webdriver
+	RC 
+	Grid
+	
+Selenium IDE
+
+
+JAVA 
+
+ - Object Oreinted Programming 
+ - Each and everting is in form of Object only
+ - Verstile ,coding/programming/web application/Mobile app/testing 
+
+  concepts 
+  syntax 
+  terminology 
+
+  Basics 
+	Installation
+	Basic structure file
+	Packages,file,class
+	operators 
+	conditional stmts
+	loops
+	arrays
+	OOPS features 
+		class / object
+		Inheritance
+		Polymorphisum
+		Abstraction
+		Encapsulation
+	File Handling
+	Exception
+	Collection 
+
+	PRACTISE
+		-java - jdk java devlopment kit 
+		editor - IDE - Eclipse 
+
+Java file 
+- extenstion .java
+- compile and run
+- bytecode run
+-java platform independet create once and run anywhere /works on all the platform
+-
+Java file
+1. package
+2. import
+3. class stmt
+
+java file execution always starts from main method 
+
+- print 
+ System.out.println("Hello World");
+
+
+
+		
+ 
+
