@@ -146,10 +146,43 @@ escape sequence
 
 
 Operator 
- 
+
+1st Dec
+
+Demo class 
+sop 
+variables 
+data types 
+
+comments - non executalbe part of program ,Documentaion 
+3 types 
+single //
+multiline /*   */
+Documentation /** */
 
 
-		
+
+accepting input from user - Scanner class 
+
+Operators ? 
+Arithmatic Opeartors +,-,*,/,% (remider)
+Loigcal operators &&, ||, ! - compound-more then one condition  
+Relational Operation >,<,>=,<=,!=
+increment/decrement - ++ , --
+Assignment operators += , -=, *= , /= 
+bit wise operatos - & , | ,<<,>> - binary 0101&1111 = 
+   0 1 0 1
+   1 0 1 1
+&  0 0 0 1
+|  1 1 1 1
+ternary opertaor  (condition)?True:False 
+a>b?a:b
+12>30
+
+
+Lab task : Operators with user accepted input
+2. String "45 is greater then 12"
  
+
 
 
