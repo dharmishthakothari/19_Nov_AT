@@ -184,5 +184,113 @@ Lab task : Operators with user accepted input
 2. String "45 is greater then 12"
  
 
+3rd Dec 
+- Operators 
+Conditional Stmts 
+   - When you have a alternatives 
+   - conditions apply
+  - eg. age 1,2,45,89,100...
+ 1. if
+2. if else
+3. if else if
+4. nested if
+
+-->if
+if(coniditon)
+{
+	block...
+}
+
+eg. check user's age is adult or not
+age=20;
+if(age>18)  //20>18
+{
+    sop("User is adult");
+}
+eg 
+age=12;
+if(age>18)  //12>18
+{
+    sop("User is adult");
+}
+
+if else(true a false)
+if(conditiion)
+{
+	block
+}
+else
+{
+	block
+}
+--if... else if // ladder
+if(condition)
+{
+}
+else if(condition)
+{
+}
+else if(condition)
+{
+}
+else if(condition)
+{
+}
+else
+{
+}
+
+User is infant , minor,adult , seniour,super senior
+
+0-2 - infant
+3-18 - minor
+19-50 adult
+51-70 - seniour
+71 - super senior
+
+Lab task 
+Grade - User will enter percentage 
+
+40-55 - C
+56 - 70 - B
+71 - 80 - A
+80 - A+
+else Fail
+
+--- nested if 
+if within if
+if(condition)
+{
+   if(condition)
+   {
+   }
+}
+
+age >18
+weight >50 
+   military addmission 
+
+--switch case 
+- no of alternatives  if-else if not readable -complex 
+switch(expression)
+{
+case : stmt
+		break
+case :stmt
+		break;
+case : stmt
+		break
+case :stmt
+		break;
+default :stmt
+			break;
+}
+
+
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+Enter user choice 
 
 
