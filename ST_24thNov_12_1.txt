@@ -293,4 +293,73 @@ default :stmt
 4. Division
 Enter user choice 
 
+5th Dec 
+
+conditional stmt 
+ if
+ if -else
+ if -else if
+ nested if
+ switch case 
+
+Looping 
+ - repeation 
+ - print hello 5 times
+ - loop - iterate
+  1. for loop
+  2. do-while loop
+  3. while
+
+1. for 
+syntax 
+	for(initlization;condition;increment/decrement)
+	{
+	}
+
+hello print 5 times 
+for(int i=1;i<=5;i++)
+{
+	sop("Hello");
+}
+
+while loop - entry control
+syntax
+ - while(condition)
+	{
+		block
+	}
+
+do loop - exit control 
+syntax
+
+- do
+	{
+		block
+	}while(condition);
+
+
+Lab Task : do loop with decrement print Hello
+
+-To print numbers which divisable by 3, between 100 - 200
+reminder % modules 
+
+Lab Task : while , do while
+
+--To print numbers which divisable by 3 and 7, between 100 - 200
+
+Lab task : To print numbers which divisable by 3 and 7, between User enters range 
+
+Mulilication Table 
+
+Control stmt 
+ break , continue 
+  perticular condition loop break 
+continue - skip the current iteraton and continue with next iteration
+
+loop 1- 10 break when it reaches to 5
+
+while
+do while
+
+
 
