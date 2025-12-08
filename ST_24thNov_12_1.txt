@@ -361,5 +361,103 @@ loop 1- 10 break when it reaches to 5
 while
 do while
 
+8th Dec
+Loops : for , while ,do while
+
+for,while entry control 
+do-while exit control
+
+break - continue
+
+
+To check no. is prime not ?
+ - number is devide my 1 and itself 13,31,17,37,23...
+
+user asking to enter number Scanner 
+input 22 
+
+2 - diviable by 2 - not prime 
+3
+4
+5
+6
+.....
+21
+
+input 45
+
+2  not divisalbe 
+3 - dvisable - not prime 
+
+input 23
+2 not divisalbe 
+3 not divisable 
+4 not divisable 
+5 not divisable 
+6 not divisable 
+7 not divisable 
+22 not divisable 
+
+Reverse number 
+input - 2345
+output 5432
+
+1. 2345 % 10 = 5
+  2345/10  = 234
+
+2. 234%10 = 4
+   234 / 10 = 23
+3 23 %10 = 3
+  23 /10 = 2
+
+4 2 % 10 = 2
+
+Lab Task : Total_even and Total odd digits from number 
+
+input 2355
+even_no = 1
+odd_no =3
+
+Menu driven Program
+1. Check number is Prime
+2. Check number is Even/Odd
+3. REverse Number 
+4. Exit
+Enter your choice 1
+Enter number 23
+23 is prime number 
+
+1. Check number is Prime
+2. Check number is Even/Odd
+3. REverse Number 
+4. Exit
+Enter your choice 3
+Enter number 4567
+Reverse number is 7654
+
+1. Check number is Prime
+2. Check number is Even/Odd
+3. REverse Number 
+4. Exit
+Enter your choice 4
+
+
+Lab task :
+create function for reverse number
+create fuction to check number is even or odd
+
+
+*
+* *
+* * *
+
+
+
+
+
+
+
+
+
 
 
