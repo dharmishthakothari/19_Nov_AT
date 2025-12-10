@@ -452,6 +452,101 @@ create fuction to check number is even or odd
 * * *
 
 
+10th Dec
+  Pattern Programs 
+
+
+input 4
+*			row - 1 col - 1
+* *			row - 2 col 1 ,2
+* * *		row - 3 col 1,2,3
+* * * *    row - 4  col 1 2 3 4
+
+nested for - for within for
+1 for loop row 
+ 2nd loop for column 
+
+
+5
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+
+1
+2 2
+3 3 3
+4 4 4 4
+5 5 5 5 5
+
+Pattern 
+1 1 1 1 1 - row 1 col 5
+2 2 2 2   - row 2 col 4
+3 3 3    - row 3 col 3
+4 4        row 4 col 2
+5   		row 5 col 1
+
+Pattern 
+1 2 3 4 5
+1 2 3 4
+1 2 3
+1 2
+1
+
+Pattern 
+* * * * *
+* * * *
+* * *
+* *
+*
+
+Lab Task 
+1
+3 3
+5 5 5
+7 7 7 7
+9 9 9 9 9
+
+Pattern 
+input 5
+* * * * *
+* * * *
+* * *
+* *
+*
+* *
+* * *
+* * * *
+* * * * *
+
+Array 
+ - int rollNo1,rollNo2,rollNo3,rollNo4....;
+ - String name1,name2,name3,name4 .....name50 ;
+array is collection of same elements ,having same name
+int array having 50 elements 
+string name array having 50 elements 
+array declaration-initlization 
+int [] roll_no=new int[50];
+0 initial values 
+
+roll_no[0]=11;
+roll_no[1]=110;
+roll_no[2]=101;
+roll_no[3]=1110;
+
+
+
+array declaration -initlization 
+int[] roll_no={1,2,3,4,56,6,7,8};
+
+array elements always access thru index 
+index starts with 0 
+roll_no[4]
+roll_no[7]
+
+
+
 
 
 
