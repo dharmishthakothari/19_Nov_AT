@@ -545,6 +545,88 @@ index starts with 0
 roll_no[4]
 roll_no[7]
 
+19th Dec 
+     array ? Collection of similar data types 
+name of the students 
+roll of the students
+id of the employees
+
+
+Lab task : Search element in array
+
+
+12
+13
+14
+44
+
+row*col - 2*3
+1 2 3
+2 12 22
+
+3*3
+22 56 77
+55 33 667
+121 445 565
+
+multidimentainal 
+
+int array[][];
+
+0c  1c  2c
+12  22  56  -- 0th row
+77  88  66  -- 1st row
+
+int array[row][col];
+int array[2][3];
+
+array[0][0]=12
+array[0][1]=22
+array[0][2]=56
+array[1][0]=77
+array[1][1]=88
+array[1][2]=66
+
+Lab Task : sum of diaglonal elements 
+
+1 2 33
+33 44 66
+2 4 66
+1+44+66 = 
+
+1 65
+5 78
+1+78
+
+3 4 5
+2 3 4
+It is not 
+
+conditional , loops , array 
+
+OOPS Concept 
+class   - blueprint of an object ,it has data members and member function , 
+			actual entity
+			Human - nose ,eyes , hands , legs - data
+					smell,speak,eat - functions
+			Person - id,name,address,c_no - data
+					getDetails , display  - functions
+
+
+object	- real entity ,
+		 type of class
+		 object has own data and function
+		Human  dharmishtha
+		Human dhruvi
+		
+inheritance
+encapsulation
+polymorphisum
+abstraction 
+
+
+
+
 
 
 
