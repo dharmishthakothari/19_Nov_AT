@@ -624,7 +624,26 @@ encapsulation
 polymorphisum
 abstraction 
 
+22nd Dec
+   constructor - to initilize an object 
+     			- has same name as class name
+               - doesn't return anything 
+               - one class may have more then one constructor
+				-constructor called automatically 
+method vs constructor 
 
+Inheritance  - one class can property of another class  - reusability - 'is a' relationship.
+				super and sub , sub class can use property of superclass 
+Person - Employee 
+name,c_no - 
+
+Person p=new Person();
+
+one default constructor is available in all java files/implit
+
+Person()
+{
+}
 
 
 
