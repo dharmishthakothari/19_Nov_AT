@@ -646,6 +646,38 @@ Person()
 }
 
 
+24th Dec 
+   - OOps  concept 
+
+class , object ,inheritance 
+inheritance ---> child/parent one class can use property of another class 
+
+types 
+1. single   - 1 super ,1 sub class 
+2. multiple  - 1 sub class  2 super - which is not suppoerted by java - 2/more classes can not be extended in signle class 
+3. multilevel - one class extends another class and another class extends another clss A ->B ->C
+4. hiarchical - 2 classes we can extends in one class
+5. hybrid  - mixing of any above 
+
+Lab task : 3 programs
+
+--super
+contructors ,method
+
+Person
+Employee super
+
+
+Polymorphisum - same name many for 
+	ability to take more then one form  - addition - 2 ,4,10 , 
+	println() , 
+	2 types polymorphisum 
+1. Compile time  -method overloading  - same name ,differet argument 
+2. Runtime -	method overriding  - same name , same argument (inheritance)
+
+
+
+
 
 
 
