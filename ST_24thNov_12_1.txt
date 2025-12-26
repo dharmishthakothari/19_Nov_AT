@@ -676,11 +676,37 @@ Polymorphisum - same name many for
 2. Runtime -	method overriding  - same name , same argument (inheritance)
 
 
+26th Dec 
+
+ - class   - blueprint of an object
+   object  - type of class , variable of clas
+   inheritance  - reusablity ,one class can use property of another class .
+   polymorphisum   - many forms .Druvi can student,daughter , friend ,sister 
+				  - 2 types 
+					1. Compile time -method overloading  (same method name and argument is diffrent)
+                    2. Runtime  - method overriding  (same method name ,same arguments)
 
 
 
+Lab taks : Poly_method_overriding - create constructor l,b, and side to initlize 
+Lab Taks: Java Programs 
 
+Access Modifiers : scope ,limit ,accessilbity
 
+private  - it access within class only 
+protected  - it can access with the subclass 
+public -- everywhere 
+default --  within package
+
+Abstraction - showing essential details and hide other details 
+Car - break,accelator ---engine?process?
+with abstract keyword 
+abstract - adhuru 
+abstract class , method
+1. If method of class is abstract then that class becomes abstract class
+2. abstract class contains 1/more abstract methods 
+3. we can not create object abstract class
+4. We must have to override abstract method in sub class.
 
 
 
