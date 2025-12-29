@@ -709,7 +709,17 @@ abstract class , method
 4. We must have to override abstract method in sub class.
 
 
+29th Dec
 
+ ---- Polymorphisum 
+        Compile time  -Method overloading - same method name and different arguments
+		Run time   - Method overriding   - same method name and same arguments 
+
+abstract --- class , method ,
+
+interfaces --- 100% abstract 
+		   --multiple inheritance java support thru interfaces 
+			-- implements more then one interface in single class
 
 
 
