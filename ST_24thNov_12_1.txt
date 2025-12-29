@@ -722,6 +722,22 @@ interfaces --- 100% abstract
 			-- implements more then one interface in single class
 
 
+Task 1
 
+Create an interface PaymentMethod:
+void pay(double amount);
+Implement it in:   CreditCardPayment   --  UPIPayment -- CashPayment
 
+Each class should print a different payment message.
+Use the interface reference in Main
 
+Task 2 :
+
+Interface NotificationService
+void sendMessage(String message);
+
+Implement:   EmailNotification   ---  SMSNotification   --- PushNotification
+
+Create a method that accepts NotificationService and sends a message.
+
+Switch implementations without changing the main logic.
