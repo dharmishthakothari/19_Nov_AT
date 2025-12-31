@@ -741,3 +741,44 @@ Implement:   EmailNotification   ---  SMSNotification   --- PushNotification
 Create a method that accepts NotificationService and sends a message.
 
 Switch implementations without changing the main logic.
+
+31st Dec
+	loops - for,while , do ---while
+	conditional stmt - if,if else ,nested if ,switch
+	OOPS   - class , object , inheritance , abstract(interfaces) , polymorphisum(overloading-overriding) ,  
+
+	final  - keyword if class is final then that class can not overload
+  				method as a final then that method can not override
+				variable as final you can not change value
+
+	static - belongs to class not to object 
+				1000 employees name,id,address , salary
+					Compnay_name - static
+			static methods can called thru class name
+			static initlized only once 
+			static data are shread by all the objects
+
+ Exception Handling 
+- break the normal flow of execution 
+int[] num=new int[10];
+
+num[12]
+
+Enter number 
+ert
+
+2 types 1 runtime /unchecked - handle automatically 
+		2 compile time / checked - we have to handle try/catch
+
+		try   - possible hoy che exception /expelicitly throws exception folow by catch finally
+		catch  -excute when there is Exception in try 
+		throws
+		finally 
+
+Lab task : final , static 
+			try catch --- 
+			
+
+
+	
+
