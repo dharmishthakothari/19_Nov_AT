@@ -778,7 +778,41 @@ ert
 Lab task : final , static 
 			try catch --- 
 			
+2nd Jan
+    try-catch 
+expcetion - breaks normal execution flow .
+compile checked and run uncheck 
+
+throws 
+ArithmaticException
+ArrayIndexOutofBounds
+IOException
+
+if thr is some exception occure in try block then control is passed to the catch else try will normal execute.
+
+catch 
+Exceeption 
+finally always executed irrepective of exception occur or not
+
+try/catch or throws 
+finally block 
+
+File Handling ---> console ,print, user data accept 
+
+take data from file/local system 
+
+File IO API
+Stream API
+data read/write thru either bytes / character 
+readfile text file byte or character 
+
+2 stream 
+byte stream --->Stream classes e.i InputStream/OutputStream
+character --->Readder calsses Reader/Writer 
+
+
 
 
 	
+
 
