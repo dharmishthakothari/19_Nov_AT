@@ -810,9 +810,18 @@ readfile text file byte or character
 byte stream --->Stream classes e.i InputStream/OutputStream
 character --->Readder calsses Reader/Writer 
 
+5th Jan
+
+File read and File write --- Byte - InstreamStream - abstract
+
+
+LabTask : read(byte[],off,len)
+		write (int)
+		write (_)
 
 
 
 	
+
 
 
