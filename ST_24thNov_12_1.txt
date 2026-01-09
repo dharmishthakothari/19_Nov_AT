@@ -821,7 +821,26 @@ LabTask : read(byte[],off,len)
 
 
 
-	
+	9th Jan 
+  -- Collection 
+		List interface ,dublicate , odered 
+		set unorder
+
+		
+		Integer vs int
+		Float vs float
+		Character vs char
+		Long	vs long
+
+	wrapper classes are classes where each primitive type is in form of classes.
+list.add(23);  ---->23 Integer not int 
+
+<> ---generics
+
+Object class is root class .
+
+
+
 
 
 
