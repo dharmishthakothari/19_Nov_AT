@@ -839,6 +839,21 @@ list.add(23);  ---->23 Integer not int
 
 Object class is root class .
 
+12th Jan
+  - List
+
+String , StringBuffer , StringBuilder
+
+String  -- immutable 
+
+Menu Drivern program 
+1. Add Book
+2. Update Book
+3. search Book
+4. View all Books
+5. Exit
+
+--> while loop , switch case , Book class , book list , functions 
 
 
 
