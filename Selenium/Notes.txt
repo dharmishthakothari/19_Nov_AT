@@ -1,1 +1,14 @@
+16th Jan
+    Automation ? 
+        Automatic work
+        Fast
+        Accurate
+        repeatation 
 
+Functional and non functional 
+regression testing - selenium , playwright , UFT , ...
+
+What to Automate ,What not to automate ?
+
+        
+ 
