@@ -10,5 +10,44 @@ regression testing - selenium , playwright , UFT , ...
 
 What to Automate ,What not to automate ?
 
+19th Jan
+   --Selenium Record and Play -- IDE 
+    export script
+
+
+--- Selenium WebDriver 
+One of widest used 
+
+Configration --- Java , eclipse , Selenium WebDriver - API - download jar files 
+All jar file must be added to project config
+
+test stes
+    open brower  - WebDriver main interface , ChromeDriver ,FireFoxDriver , EdgeDriver 
+    enter url
+    click on login
+    enter data 
+
+Each element/coponenet is WebElement in Selenium 
+link click / Downloads click 
+Downloads is WebElement
+
+enter username as 'a'
+username/textbox webelement
+password/password webelement
+button click webelement
+
+
+
+1. get vs to
+2. close vs quit
+
+WebDriver 
+WebElement 
+Locators
+Alerts
+Wait 
+
+LabTask : Open google page and click on About and getch URL and title 
+
         
  
