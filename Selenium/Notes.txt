@@ -49,5 +49,26 @@ Wait
 
 LabTask : Open google page and click on About and getch URL and title 
 
+21st Jan
+
+WebDriver ---multileiwindow  , form fill login  --- url , username /password/click submit 
+WebElements -- textBox , password 
+                To identify element we have to use locators 
+                name
+                id
+                linktext
+                partiallink text 
+                css
+                classname
+                xpath
+
+Registration form of https://demo.guru99.com/test/newtours/register.php -- Username , password and confirmPassword
+
+-- dropdown   --- select 
+                    options 
+
+
+
+
         
  
