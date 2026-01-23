@@ -68,6 +68,13 @@ Registration form of https://demo.guru99.com/test/newtours/register.php -- Usern
                     options 
 
 
+Radio ---
+Checkboxes ---
+
+//*[@id="thursday"]
+<input class="form-check-input" id="thursday" type="checkbox" value="thursday">
+#monday
+
 
 
         
