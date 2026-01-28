@@ -75,6 +75,45 @@ Checkboxes ---
 <input class="form-check-input" id="thursday" type="checkbox" value="thursday">
 #monday
 
+28th Jan
+
+WebElement -- textboxes , password, radios , dropdown , checkboxes (Sunday,Monday...)
+
+findElement 
+findElements -tagName -input --List
+              tagName - a - List 
+
+         Table -- WebTable -- row/columns 
+                    static -data fixed  / dynamic (data loaded at the run time)
+
+                dynamically  -- 
+
+                row and column 
+                there 6 rows and each row contains 4 data 
+                6*4 = data
+
+        WebElement 
+           1 <tr><td></td>     <td></td></tr>
+            2 <tr><td></<td>    <td></td></tr>
+
+//*[@id="HTML1"]/div[1]/table/tbody/tr[2]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[2]/td[1]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[2]/td[2]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[2]/td[3]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[2]/td[4]
+
+
+//*[@id="HTML1"]/div[1]/table/tbody/tr[3]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[3]/td[1]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[3]/td[2]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[3]/td[3]
+//*[@id="HTML1"]/div[1]/table/tbody/tr[3]/td[4]
+
+//*[@id="HTML1"]/div[1]/table/tbody/tr[7]
+
+//*[@id="HTML1"]/div[1]/table/tbody/tr[4]
+
+
 
 
         
