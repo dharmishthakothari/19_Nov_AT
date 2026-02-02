@@ -113,7 +113,18 @@ findElements -tagName -input --List
 
 //*[@id="HTML1"]/div[1]/table/tbody/tr[4]
 
+2nd Feb 
+-- TextBoxes , password , checkboxes, radios , tables 
+ --- Alerts/windows Window handlers 
+--Alerts 
+   Synchronization ---   actual application ans your script to make communication in such a way they can communucate effectively/pass data 
 
+    Thread.sleep(2000)
+
+
+Special mouse movement
+Keyboad movement
+Actions 
 
 
         
