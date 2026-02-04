@@ -126,6 +126,31 @@ Special mouse movement
 Keyboad movement
 Actions 
 
+--4th Feb
+
+Lab Task :
+ Wait ---- synchronization /simulation 
+LabTask --- FluentWait
+
+cssSelector / xpath 
+---Locators ---id,name,tagname,linkText,partialLinkText ,cssSelector ,xpath 
+---xpath --- xml path ---absolute --from starting html--body....
+                         relative  --- inbetween 
+
+Lab Task : red bus example - data fetch
+WebTools/developer tools--- selectorhub
+            ---- firebug  
+
+WebDriver completed 
+TESTNG 
+
+
+
+
+
+
+
+
 
         
  
