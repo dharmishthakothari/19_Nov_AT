@@ -144,7 +144,43 @@ WebTools/developer tools--- selectorhub
 WebDriver completed 
 TESTNG 
 
+9th Feb 
+ - WebDriver - methods
+ - WebElement - method
+ - Componenets - text boxes, pass , checkboxes,radios,table ,alerts ,...handling
+ - Actions 
+ - Locators 
+ - Wait 
+ -  
+LabTask : Screenshots , expetect actual - screenshots 
+            file 
+TestNG
+  --- framework
+  --- end to end testing
+  --- grouping
+  ---paramterization
+  --- dependency
+  --- annotation
+  --- assertions
 
+java + Selenium + TestNG
+Libraries 
+
+1. Configration --- testng.xml --- settings suite - classes - class
+2. Annotation --- metadata - data about data 
+   5 methods 
+   main
+      script
+  -- annotaion Test method
+  @Test
+  @BeforeMethod ---This test method ni pahla aa method execute thashe
+  @BeforeClass
+  @BeforeTest
+  @AfterMethod
+  @AfterClass
+  @AfterTest
+
+sequence ---of all annotations - add 3 test method 
 
 
 
