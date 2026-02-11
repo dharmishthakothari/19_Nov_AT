@@ -182,7 +182,8 @@ Libraries
 
 sequence ---of all annotations - add 3 test method 
 
-
+11th Feb
+ ---- testng.xml   configration - settings 
 
 
 
