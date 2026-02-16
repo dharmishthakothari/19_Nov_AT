@@ -185,9 +185,30 @@ sequence ---of all annotations - add 3 test method
 11th Feb
  ---- testng.xml   configration - settings 
 
+16th Feb
 
+--- parameterization ? 
+1. same test case with muliple data eg. loginTest want execute with different data 
+i) xml --- thru testng.xml
+ii) Dataprovider --- annotation 
 
+annotation 
+2 d array ==== username , password ? 3 
+set of 3 username,password 
+{
+{"dharmishtha","kothari"} ,
+ {"Avani","Patel"},
+{"Sona","Borisagar"}
+}
 
+Test 
 
-        
+read data from excel 
+
+-ms-office external api 
+
+Workbook - > worksheet -> row ->cell -->data 
+
+        xls  --- HSSF
+        xlsx ---- XSSF
  
