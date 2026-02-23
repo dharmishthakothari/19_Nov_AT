@@ -215,3 +215,6 @@ Workbook - > worksheet -> row ->cell -->data
 20th Feb
 
 Maven , DesginPattern  ---- FindBy 
+
+23rd Feb
+POM --- Design pattern
