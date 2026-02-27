@@ -218,3 +218,25 @@ Maven , DesginPattern  ---- FindBy
 
 23rd Feb
 POM --- Design pattern
+
+27th feb
+Listner  --- when event happens then some listern to listne
+test run  ---- listner
+test fail -- 
+test pass
+automatically 
+
+screenshot  --- 
+logging --- log 
+info  --- report/log
+debug
+pass
+
+LabTask : ScreenShot --- On failure
+            Logges
+            POM
+
+
+
+
+
