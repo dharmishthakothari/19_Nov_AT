@@ -237,6 +237,29 @@ LabTask : ScreenShot --- On failure
             POM
 
 
+2rd Jmeter 
+---
+functional testing  --- selenium 
+non -functional testing --- performance testing --- jmeter
+generally not able to do manually .
+
+create more and more users and these can be virtual users
+
+---Download Jmeter 
+
+1. create users
+2. login request 200 , registration request 500 , feedback request 200 , fligth booking request 
+3. loop
+
+
+1. Test Plan
+   1.1 Test Group
+        User -5
+        ramp up -- 
+        loop 
+      1.1.1 request create (sampler)  
+
+
 
 
 
