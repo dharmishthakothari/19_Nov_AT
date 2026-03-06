@@ -273,6 +273,39 @@ View Results Tree
 Summary Report
 Aggregate Report
 
+--------------------------------
 
+Task 2 :
+Run the test and observe the results
+
+
+Exercise 2
+
+Create a JMeter test plan to simulate 25 users accessing the homepage continuously for 2 minutes and analyze performance results.
+
+Test Requirements
+Thread Group Settings
+Number of Users (Threads): 25
+
+
+Ramp-Up Period: 25 seconds
+
+
+Loop Count: Forever
+
+
+Duration: 120 seconds
+
+
+📌 Meaning: One new user starts every second.
+HTTP Request Sampler
+Configure an HTTP GET request:
+Protocol: https
+Server Name: demoblaze.com
+Path: /index.html
+Method: GET
+Timers (Very Important – Realistic Behavior)
+Add a Constant Timer:
+Delay: 2000 ms
 
 
