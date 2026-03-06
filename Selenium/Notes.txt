@@ -259,6 +259,19 @@ create more and more users and these can be virtual users
         loop 
       1.1.1 request create (sampler)  
 
+assertion --- actual vs expected 
+
+TASK
+Create a JMeter Test Plan
+Add a Thread Group with:
+Number of Threads (Users): 10
+Ramp-Up Period: 10 seconds
+Loop Count: 6 (or use Duration = 60 seconds)
+Add an HTTP Request Sampler to send a GET request to the given URL (https://httpbin.org/)
+Add the following Listeners:
+View Results Tree
+Summary Report
+Aggregate Report
 
 
 
